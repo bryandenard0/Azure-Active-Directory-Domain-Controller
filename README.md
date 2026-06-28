@@ -1,3 +1,6 @@
+# Watch me complete this lab here:
+https://www.loom.com/share/0a2aa903a8ce4376b4b608005e3ea98b
+
 # Lab 1 — Active Directory Domain Services
 
 Windows Server 2025 · Azure · Identity & Access Management
